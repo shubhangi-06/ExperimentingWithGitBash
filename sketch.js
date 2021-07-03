@@ -56,8 +56,6 @@ function draw(){
     log3.display();
 
     box5.display();
-    log4.display();
-    log5.display();
 
 
 }
